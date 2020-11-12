@@ -1,0 +1,22 @@
+
+  .navbar a {
+    color: rgb(10, 1, 1);
+     }
+  
+  .navbar li a:hover {
+    background: rgb(238, 219, 184);
+     }
+    
+     .carousel-inner img {
+        width: 50%;
+        height: 50%;
+    }
+    .carousel-caption h3 {
+        color:rgb(241, 47, 47);
+    }
+    .carousel-caption p {
+        color: rgb(10, 218, 37);
+    }
+    h1{
+        color: skyblue;
+    }
